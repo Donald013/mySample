@@ -1,0 +1,19 @@
+$bgcolor: #ccc;
+
+body{
+    background: $bgcolor;
+}
+
+.component {
+    padding: 2vw;
+    &__card {
+      background-color: #FFF;
+    }
+    &__name {
+      color: #000;
+    }
+    &__button {
+      background-color: blue;
+      color: #FFF;
+    }
+  }

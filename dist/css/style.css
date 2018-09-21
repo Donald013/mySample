@@ -1,0 +1,12 @@
+body {
+  background: #ccc; }
+
+.component {
+  padding: 2vw; }
+  .component__card {
+    background-color: #FFF; }
+  .component__name {
+    color: #000; }
+  .component__button {
+    background-color: blue;
+    color: #FFF; }
